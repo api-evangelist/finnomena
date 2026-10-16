@@ -1,0 +1,14 @@
+{
+  "repo": "finnomena",
+  "feeds": [
+    {
+      "source": "https://www.finnomena.com/feed/",
+      "feed_url": "https://www.finnomena.com/feed/",
+      "title": "",
+      "saved": 9,
+      "method": "feed"
+    }
+  ],
+  "post_count": 9,
+  "fetched": "2026-10-10T13:15:00Z"
+}
